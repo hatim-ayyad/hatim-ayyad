@@ -27,3 +27,9 @@ Hi, I'm **Meddie**, a passionate software developer with a focus on various prog
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funny-boy445&theme=github_dark)
 
+# Contribution Chart
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusgomes28/matheusgomes28/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusgomes28/matheusgomes28/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
