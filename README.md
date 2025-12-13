@@ -2,19 +2,30 @@
 
 Hi, I'm **Meddie**, a passionate software developer with a focus on various programming languages, tools, and technologies. I enjoy solving complex problems and continuously learning new skills to enhance my expertise.
 
-## Skills
-
-- **Programming languages:** Python, JavaScript, React
-- **Web development:** HTML, CSS, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Frameworks:** Docker, Git
-- **Other skills:** Cybersecurity, Linux Systems, DevOps
-  
 ## Social Links
 
 - **Portfolio:** https://guns.lol/h4tim
 - **Discord** meddiex
 - **LinkedIn** https://www.linkedin.com/in/hatim-ayyad-738454399/
+
+## Skills
+
+- **Programming languages:** Python, JavaScript, React, Pawn
+- **Web development:** HTML, CSS, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Frameworks:** Docker, Git
+- **Other skills:** Cybersecurity, Linux Systems, DevOps
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,react,html,css,nodejs,mysql,mongodb,docker,git,linux" />
+  </a>
+</p>
+
+# Most used programming languages
+![Stats](https://github-readme-stats.vercel.app/api?username=hatim-ayyad&show_icons=true&theme=transparent&rank_icon=percentile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatim-ayyad&layout=donut&theme=transparent)
 
 # Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hatim-ayyad&theme=react-dark&area=true)
