@@ -1,5 +1,5 @@
 <!-- 🌊 Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome&fontSize=60&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4F8B&height=180&section=header&text=Welcome&fontSize=60&fontAlignY=35&animation=twinkling" />
 
 <!-- ✨ Typing Effect -->
 <p align="center">
@@ -40,12 +40,9 @@
 
 ---
 
-<!-- 🐍 Snake Animation -->
-<h2 align="center"> GitHub Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hatim-ayyad/hatim-ayyad/output/github-snake.svg" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusgomes28/matheusgomes28/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusgomes28/matheusgomes28/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ---
-
-<h2 align="center">🌸 About Me</h2>
