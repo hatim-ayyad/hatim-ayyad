@@ -3,7 +3,7 @@
 
 <!-- ✨ Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0080ff&center=true&vCenter=true&width=600&lines=Hi+I'm+Hatim+👋;Full-Developer;HTML+•+CSS+•+JavaScript+•+PHP;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0080ff&center=true&vCenter=true&width=600&lines=Hi+I'm+Hatim+👋;FullStack-Developer;HTML+•+CSS+•+JavaScript+•+PHP;" />
 </p>
 
 <h3 align="center">IDC About You :)</h3>
